@@ -1,0 +1,7 @@
+{
+  "name": "ionic-refresher-icon-type-error",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
